@@ -1,6 +1,6 @@
 ### Hello there, I'm Ítalo Hugo.
 
-## [Programmer](https://github.com/ItaloHugoMDS) and [Cybersecurity student](www.linkedin.com/in/italohugomds)
+## [Programmer](https://github.com/ItaloHugoMDS) and [Cybersecurity student](https://www.linkedin.com/in/italohugomds)
 
 ## Welcome! 👋😁  
 
