@@ -40,8 +40,8 @@ software, and compiled using XC8 compiler running on MPLAB X.
 
 # 💻📞 Getting in touch:  
 
-[<img alt="Italo Hugo | Gmail" src="https://assets.dryicons.com/uploads/icon/svg/7991/542d59e8-621a-4332-a462-4edea4e31742.svg" width="25px"/>][email]&nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="Italo Hugo | LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/9739/f5c30466-2c9f-49b2-9ef6-e5107182920c.svg" width="25px"/>][linkedin]  
+[<img alt="Italo Hugo | Gmail" src="https://assets.dryicons.com/uploads/icon/svg/7991/542d59e8-621a-4332-a462-4edea4e31742.svg" title="Email" width="25px"/>][email]&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="Italo Hugo | LinkedIn" src="https://assets.dryicons.com/uploads/icon/svg/9739/f5c30466-2c9f-49b2-9ef6-e5107182920c.svg" title="LinkedIn" width="25px"/>][linkedin]  
 
 [email]:<mailto:silvaitalohugom@gmail.com>
 [linkedin]:<https://www.linkedin.com/in/italohugomds>
