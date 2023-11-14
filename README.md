@@ -29,7 +29,7 @@ error log in case any problem occurs during the process.
 ## 🔤 C  
 
 - [Simon Game Project][7]: This is a replication of Simon's game, it was done using a PIC microcontroller, debugged and
-tested using Proteus' simulation software, and compiled using XC8 compiler running on MPLAB X. (*You can watch the
+tested using Proteus' software simulator, and compiled using XC8 compiler running on MPLAB X. (*You can watch the
 project in action by checking out [LinkedIn][8]*)  
 
 ## 🔒 Cybersecurity  
