@@ -11,7 +11,7 @@
 ## 🐍 Python  
 
 - [Extracting and parsing data in Python][2]: This is a skill showcase project where data is extracted from a log file,
-parsed, sorted, and stored into a dictionary, which later is used to generate a CSV file report.  
+parsed, sorted, and stored into a dictionary, which later is used to generate a CSV report file.  
 
 - [Parsing images and information generating pdf report and sending emails][3]: This is a skill showcase from a prompt
 exercise during the [Google IT Automation with Python][4] certificate.
