@@ -35,7 +35,7 @@ project in action by checking out the [Project's video][8]*)
 ## 🔒 Cybersecurity  
 
 - [Incident Reports][9]: This project is a skill showcase for the cybersecurity activity of reporting incidents. Prompts
-with information about the incident are provided, as well as data for the analysis, and reports were generated with all
+with information about the incidents are provided, as well as data for the analysis, and reports were generated with all
 the gathered information during the process of responding to the incident.  
 
 ---  
