@@ -1,6 +1,6 @@
-### Hello there, I'm Ítalo Hugo.  
+### Hello there, I'm Ítalo Hugo.
 
-## [Programmer][0] and [Cybersecurity student][1]  
+## [Programmer][0] and [Cybersecurity student][1]
 
 ## Welcome! 👋😁  
 
@@ -38,6 +38,10 @@ project in action by checking out the [Project's video][8]*)
 with information about the incidents are provided, as well as data for the analysis, and reports were generated with all
 the gathered information during the process of responding to the incident.  
 
+- [Footprint with Python][10]: This project showcases a tool used for footprinting web applications by retrieving the
+application's headers. For this showcase, the tool was used to footprint an application running within a **Docker's
+container**. The image used was a **OWASP WebGoat** container running on **Docker**.  
+
 ---  
 
 # 💻📞 Getting in touch:  
@@ -55,6 +59,7 @@ the gathered information during the process of responding to the incident.
 [7]: https://github.com/ItaloHugoMDS/Simon-Game-Project---PIC18F4520---Milford-4x20-BKP
 [8]: https://www.linkedin.com/posts/italohugomds_this-is-a-showcase-of-my-simon-game-project-activity-7122417932701188096-V0bT?utm_source=share&utm_medium=member_desktop "You can also check GitHub's repository"
 [9]: https://github.com/ItaloHugoMDS/Incident_Reports
+[10]: https://github.com/ItaloHugoMDS/Footprinting_with_Python
 [email]: mailto:silvaitalohugom@gmail.com "Email"
 [linkedin]: https://www.linkedin.com/in/italohugomds "LinkedIn"  
 
