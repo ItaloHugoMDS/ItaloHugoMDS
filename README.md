@@ -15,7 +15,7 @@ parsed, sorted, and stored into a dictionary, which later is used to generate a 
 
 - [Parsing images and information generating pdf report and sending emails][3]: This is a skill showcase from a prompt
 exercise during the [Google IT Automation with Python][4] certificate.
-(*For deeper understanding the project, check out [GitHub][3]*)  
+(*For deeper understanding of the project, check out [GitHub][3]*)  
 
 - [Basic server health check][5]: A simple health check scan to evaluate a running server's basic components, such as
 memory, storage, cpu usage, etc. In case any error is raised by the check, an email will be sent to the server's
@@ -42,6 +42,10 @@ the gathered information during the process of responding to the incident.
 application's headers. For this showcase, the tool was used to footprint an application running within a **Docker's
 container**. The image used was a **OWASP WebGoat** container running on **Docker**.  
 
+- [Encryption and Decryption with Python][11]: This project displays tools, written in python, used to encrypting and
+decrypting file with the RSA method. The encryption process is done using all the standard methods described by *NIST*.
+Making use of OAEP for padding and using SHA256 as the main hash algorithm, for both the padding and password storage.  
+
 ---  
 
 # 💻📞 Getting in touch:  
@@ -60,6 +64,7 @@ container**. The image used was a **OWASP WebGoat** container running on **Docke
 [8]: https://www.linkedin.com/posts/italohugomds_this-is-a-showcase-of-my-simon-game-project-activity-7122417932701188096-V0bT?utm_source=share&utm_medium=member_desktop "You can also check GitHub's repository"
 [9]: https://github.com/ItaloHugoMDS/Incident_Reports
 [10]: https://github.com/ItaloHugoMDS/Footprinting_with_Python
+[11]: https://github.com/ItaloHugoMDS/Encryption_and_Decryption_with_Python
 [email]: mailto:silvaitalohugom@gmail.com "Email"
 [linkedin]: https://www.linkedin.com/in/italohugomds "LinkedIn"  
 
