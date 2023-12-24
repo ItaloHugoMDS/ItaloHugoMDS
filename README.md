@@ -46,6 +46,9 @@ container**. The image used was a **OWASP WebGoat** container running on **Docke
 decrypting file with the RSA method. The encryption process is done using all the standard methods described by *NIST*.
 Making use of OAEP for padding and using SHA256 as the main hash algorithm, for both the padding and password storage.  
 
+- [Encryption and Decryption of Big File with Python][12]: This repository contains tools for encrypting and decrypting
+any file using a **hybrid encryption** method, making use of symmetric **AES 256** and asymmetric **RSA** encryption.  
+
 ---  
 
 # 💻📞 Getting in touch:  
@@ -65,6 +68,7 @@ Making use of OAEP for padding and using SHA256 as the main hash algorithm, for 
 [9]: https://github.com/ItaloHugoMDS/Incident_Reports
 [10]: https://github.com/ItaloHugoMDS/Footprinting_with_Python
 [11]: https://github.com/ItaloHugoMDS/Encryption_and_Decryption_with_Python
+[12]: https://github.com/ItaloHugoMDS/Encryption_and_Decryption_Big_Files_with_Python
 [email]: mailto:silvaitalohugom@gmail.com "Email"
 [linkedin]: https://www.linkedin.com/in/italohugomds "LinkedIn"  
 
