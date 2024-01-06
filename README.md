@@ -52,7 +52,8 @@ any file using a **hybrid encryption** method, making use of symmetric **AES 256
 ## 🗃️ SQL  
 
 - [Querying with SQL][13]: Here you can find a skill showcase for the use of SQL language to perform queries within a
-database. This repository contains a number of queries using many methods for filtering, ordering, and joining tables.  
+database. This repository contains a number of queries using many methods for filtering, ordering, and joining tables.
+All performed using SQL language within an instance of **MariaDB** application.  
 
 ---  
 
