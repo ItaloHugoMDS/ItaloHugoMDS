@@ -49,6 +49,9 @@ Making use of OAEP for padding and using SHA256 as the main hash algorithm, for 
 - [Encryption and Decryption of Big Data with Python][12]: This repository contains tools for encrypting and decrypting
 any file using a **hybrid encryption** method, making use of symmetric **AES 256** and asymmetric **RSA** encryption.  
 
+- [Assessing Vulnerabilities Report][14]: This repository presents a skill showcase for the activity of assessing and
+reporting vulnerabilities within a given system and/or asset(s).  
+
 ## 🗃️ SQL  
 
 - [Querying with SQL][13]: Here you can find a skill showcase for the use of SQL language to perform queries within a
@@ -76,6 +79,7 @@ All performed using SQL language within an instance of **MariaDB** application.
 [11]: https://github.com/ItaloHugoMDS/Encryption_and_Decryption_with_Python
 [12]: https://github.com/ItaloHugoMDS/Encryption_and_Decryption_Big_Files_with_Python
 [13]: https://github.com/ItaloHugoMDS/Querying_with_SQL
+[14]: https://github.com/ItaloHugoMDS/Assessing_Vulnerabilities_Report
 [email]: mailto:silvaitalohugom@gmail.com "Email"
 [linkedin]: https://www.linkedin.com/in/italohugomds "LinkedIn"  
 
