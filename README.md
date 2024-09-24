@@ -21,7 +21,7 @@ exercise during the [Google IT Automation with Python][4] certificate.
 memory, storage, cpu usage, etc. In case any error is raised by the check, an email will be sent to the server's
 administrator. The code is idempotent, so it can be scheduled for execution within the linux server.  
 
-## 🖥️ Bash  
+## 🐧️ Bash  
 
 - [Updating and Upgrading in Bash][6]: A simple bash program to update and upgrade a Debian-based distro and generate an
 error log in case any problem occurs during the process.  
