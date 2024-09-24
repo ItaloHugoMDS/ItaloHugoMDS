@@ -26,6 +26,11 @@ administrator. The code is idempotent, so it can be scheduled for execution with
 - [Updating and Upgrading in Bash][6]: A simple bash program to update and upgrade a Debian-based distro and generate an
 error log in case any problem occurs during the process.  
 
+## 🪟 PowerShell  
+
+- [Automating with Powershell][17]: This project consists of a couple of PowerShell scripts created to automate the
+process of information collection in a Operation Center environment.  
+
 ## 🔤 C  
 
 - [Simon Game Project][7]: This is a replication of Simon's game, it was done using a PIC microcontroller, debugged and
@@ -91,6 +96,7 @@ All performed using SQL language within an instance of **MariaDB** application.
 [14]: https://github.com/ItaloHugoMDS/Assessing_Vulnerabilities_Report
 [15]: https://github.com/ItaloHugoMDS/Threat_Hunting
 [16]: https://github.com/ItaloHugoMDS/Analyzing_Alerts_with_ELK_Stack
+[17]: https://github.com/ItaloHugoMDS/Automating_with_PowerShell
 [email]: mailto:silvaitalohugom@gmail.com "Email"
 [linkedin]: https://www.linkedin.com/in/italohugomds "LinkedIn"  
 
